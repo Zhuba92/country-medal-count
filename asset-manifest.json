@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/country-medal-count/static/css/main.c90f80e4.css",
+    "main.js": "/github.io/country-medal-count/static/js/main.8f56f360.js",
+    "static/js/787.94d74f81.chunk.js": "/github.io/country-medal-count/static/js/787.94d74f81.chunk.js",
+    "index.html": "/github.io/country-medal-count/index.html",
+    "main.c90f80e4.css.map": "/github.io/country-medal-count/static/css/main.c90f80e4.css.map",
+    "main.8f56f360.js.map": "/github.io/country-medal-count/static/js/main.8f56f360.js.map",
+    "787.94d74f81.chunk.js.map": "/github.io/country-medal-count/static/js/787.94d74f81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c90f80e4.css",
+    "static/js/main.8f56f360.js"
+  ]
+}
