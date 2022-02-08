@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/country-medal-count/static/css/main.6cbd1246.css",
-    "main.js": "/country-medal-count/static/js/main.89230c73.js",
+    "main.js": "/country-medal-count/static/js/main.4bdb52f0.js",
     "static/js/787.94d74f81.chunk.js": "/country-medal-count/static/js/787.94d74f81.chunk.js",
     "index.html": "/country-medal-count/index.html",
     "main.6cbd1246.css.map": "/country-medal-count/static/css/main.6cbd1246.css.map",
-    "main.89230c73.js.map": "/country-medal-count/static/js/main.89230c73.js.map",
+    "main.4bdb52f0.js.map": "/country-medal-count/static/js/main.4bdb52f0.js.map",
     "787.94d74f81.chunk.js.map": "/country-medal-count/static/js/787.94d74f81.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6cbd1246.css",
-    "static/js/main.89230c73.js"
+    "static/js/main.4bdb52f0.js"
   ]
 }
